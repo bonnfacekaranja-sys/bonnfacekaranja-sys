@@ -1,6 +1,11 @@
-## Hi there 👋
-- 🌱 I’m currently learning Ai .
-- 👯 I’m looking to collaborate on Ai experts.
-- 🤔 I’m looking for help with increasing my Ai skills .
-- 💬 Ask me about Crpto .
-- 📫 How to reach me: Bonnfacekaranja@gmail.com.
+# Hi there 👋
+
+I'm currently learning **AI** 🚀
+
+- 🧠 I'm currently learning AI.
+- 🤝 I'm looking to collaborate with AI experts / enthusiasts.
+- 🛠️ Looking for help with increasing my AI skills.
+- 💰 Interested in **crypto** too — feel free to ask me about crypto.
+- 📫 How to reach me: **bonnfacekaranja@gmail.com**
+
+Feel free to say hi or share resources / project ideas!
