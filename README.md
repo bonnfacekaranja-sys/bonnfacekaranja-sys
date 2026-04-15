@@ -7,8 +7,7 @@ I'm currently learning **AI** 🚀
 - 🛠️ Looking for help with increasing my AI skills.
 - 💰 Interested in **crypto** too — feel free to ask me about crypto.
 - 📫 How to reach me: **bonnfacekaranja@gmail.com**
-
-Feel free to say hi or share resources / project ideas!
+-Language programming**python** 100% feel free to say hi or share resources / project ideas!
 ## GitHub Activity 🚀
 
 [![Bonny's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=bonnfacekaranja-sys&show_icons=true&theme=radical&cache_seconds=180)](https://github.com/pranesh-2005/github-readme-stats-fast)
